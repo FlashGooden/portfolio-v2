@@ -7,7 +7,7 @@ tech:
   - React
   - Context API
   - Font Awesome
-showInProjects: true
+showInProjects: false
 ---
 
 A clone of a would be hotel website. User can filter rooms and have a layout of what the hotel offers.  
