@@ -1,7 +1,7 @@
 ---
 date: '2021-08-01'
 title: 'Gem Bot'
-github: 'https://github.com/Gamerman2001/Affirm-Action-Frontend'
+github: 'https://github.com/FlashGooden/Affirm-Action-Frontend'
 external: 'https://gems.sparkbox.com/gems/'
 tech:
   - Slack API

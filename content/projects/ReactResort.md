@@ -1,7 +1,7 @@
 ---
 date: '2019-10-01'
 title: 'React Resort'
-github: 'https://github.com/Gamerman2001/ReactResort'
+github: 'https://github.com/FlashGooden/ReactResort'
 external: 'https://react-resort-hot.netlify.com'
 tech:
   - React
