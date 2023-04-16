@@ -1,9 +1,9 @@
 ---
-date: '2021-01-013'
+date: '2021-01-13'
 title: 'Fullstack Developer Apprentice'
 company: 'Sparkbox'
 location: 'Dayton, Ohio'
-range: 'January 2021 - Present'
+range: 'January 2021 - April 2022'
 url: 'https://Sparkbox.com'
 ---
 
