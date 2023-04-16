@@ -5,4 +5,4 @@ subtitle: 'I am into web technologies'
 contactText: 'Contact me about a project'
 ---
 
-I'm a software engineer in the New York & D.C. Market. I enjoy researching and implementing new technologies on the web. 
+I'm a Web Developer in the New York & ATL Market. I enjoy researching and implementing new technologies on the web. 
