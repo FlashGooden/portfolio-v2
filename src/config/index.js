@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Troy Gooden | Software Engineer',
+  siteTitle: 'Troy Gooden | Web Developer',
   siteDescription:
-    'Troy Gooden is a software developer from NY who has an extensive history with technology. He has worked from building computers physically, to constructing live networks, and even to building software. With a focus on Front-End he looks to bring amazing code and design to the web',
+    'Troy Gooden is a web developer from NY who has an extensive history with technology. He has worked from building computers physically, to constructing live networks, and even to building software. With a focus on Front-End he looks to bring amazing code and design to the web',
   siteKeywords:
-    'Troy Gooden, software engineer, front-end engineer, web developer, javascript',
+    'Troy Gooden, engineer, front-end engineer, web developer, javascript',
   siteUrl: 'https://troygood.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-160608777-1',
@@ -11,12 +11,12 @@ module.exports = {
   name: 'Troy Gooden',
   location: 'New York | D.C.',
   email: 'fullCodeAlchemist@gmail.com',
-  github: 'https://github.com/gamerman2001',
+  github: 'https://github.com/FlashGooden',
   twitterHandle: '@FlashGooden',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Gamerman2001',
+      url: 'https://github.com/FlashGooden',
     },
     {
       name: 'Linkedin',
@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/Gamerman2001/',
+      url: 'https://codepen.io/FlashGooden',
     },
     {
       name: 'Instagram',
