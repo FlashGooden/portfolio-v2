@@ -80,7 +80,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/gamerman2001')
+    fetch('https://api.github.com/repos/FlashGooden')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -124,7 +124,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/gamerman2001"
+          href="https://github.com/flashgooden"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Implemented by Troy Gooden</div>
