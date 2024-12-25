@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A turn based sprite game where you can level up and have your scores saved to the leaderboards.
+Marketing website for cabling solution company.
