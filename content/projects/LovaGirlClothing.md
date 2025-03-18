@@ -7,7 +7,7 @@ tech:
   - Shopify
   - Liquid
   - Instagram API
-showInProjects: true
+showInProjects: false
 ---
 
 Marketing website for womens clothing.

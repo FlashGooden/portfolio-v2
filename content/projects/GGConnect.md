@@ -7,7 +7,7 @@ tech:
   - React
   - Styled Components
   - Chart.js
-showInProjects: true
+showInProjects: false
 ---
 
 Marketing website for cabling solution company.
