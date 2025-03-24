@@ -3,7 +3,7 @@ date: '2022-04-11'
 title: 'Javascript Developer'
 company: 'Lullabot'
 location: 'Atlanta, Georgia'
-range: 'April 2022 - Present'
+range: 'April 2022 - March 2025'
 url: 'https://www.Lullabot.com'
 ---
 
