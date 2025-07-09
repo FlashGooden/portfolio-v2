@@ -6,7 +6,7 @@ external: ''
 tech:
   - React
   - TypeScript
-  - FastAPI
+  - Python (FastAPI)
   - PostgreSQL
   - OpenAI GPT-4
   - ElevenLabs
@@ -18,9 +18,4 @@ showInProjects: true
 
 A comprehensive multi-modal AI content generation platform that combines
 text, image, and audio processing to create complete creative projects.
-Features include a story generator with illustrations and narration, social
-media campaign creator, presentation builder, podcast episode generator,
-and collaborative writing assistant. Built with a modern full-stack
-architecture featuring React frontend, Python (FastAPI backend), PostgreSQL
-database, and integration with multiple AI services including OpenAI,
-ElevenLabs, and Stability AI.
+
