@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-An AI-powered web application that automates podcast post-production tasks by generating professional show notes and identifying viral social media clips from podcast transcripts. The app leverages Google's Gemini AI through a Model Context Protocol (MCP) architecture to analyze transcripts and produce structured content, featuring a modern glassmorphic UI design with real-time processing feedback.
+An AI-powered web application that automates podcast post-production tasks by generating professional show notes and identifying viral social media clips from podcast transcripts.
